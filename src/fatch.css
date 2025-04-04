@@ -1,0 +1,19 @@
+.input{
+    border: 3px solid black;
+    width: 90%;
+    border-radius: 5px;
+    padding: 10px;
+}
+button{
+    background-color:black;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    margin-left: 1px;
+    margin-top: 20px;
+    width: 20%;
+}
+.message{
+    font-weight: bold;
+}
